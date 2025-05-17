@@ -1,5 +1,10 @@
-## Hola, 👋 I'm Raj Kumar Khadka 
-## A passionate Computer Engineer from Nepal
+<p align="center">
+  <img src="https://smartcourses.io/wp-content/uploads/2023/10/web-development-idea.jpg" alt="Web Development GIF" />
+</p>
+
+
+## <div align="center"> Hola, 👋 I'm Raj Kumar Khadka </div>
+## <div align="center"> A passionate Computer Engineer from Nepal </div>
 
 # 💫 About Me:
 <table>
