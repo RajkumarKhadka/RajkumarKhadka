@@ -1,4 +1,4 @@
-## Hola, 👋 I'm Ashal Upreti 
+## Hola, 👋 I'm Raj Kumar Khadka 
 ## A passionate Computer Engineer from Nepal
 
 # 💫 About Me:
