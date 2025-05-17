@@ -2,7 +2,31 @@
 ## A passionate Computer Engineer from Nepal
 
 # 💫 About Me:
-😄 Pronouns: He/His<br>🌱 I’m currently learning more about Python and SQLite.<br>👨‍💻 I’m currently working on Ishara Setu – a Nepali Sign Language detection system.<br>🤝 I’m looking to collaborate on Flutter-based accessibility projects.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      😄 Pronouns: He/His<br>
+      🌱 I’m currently learning more about Python and SQLite.<br>
+      👨‍💻 I’m currently working on Ishara Setu – a Nepali Sign Language detection system.<br>
+      🤝 I’m looking to collaborate on Flutter-based accessibility projects.<br>
+      💬 Ask me about any tech-related stuff.<br>
+      📫 How to reach me: Check social links below.<br>
+      ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+    </td>
+    <td style="vertical-align: top;">
+      <img height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="dev gif" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+###
 
 
 ## 🌐 Connect With Me:
