@@ -4,7 +4,13 @@
 
 
 ## <div align="center"> Hola, 👋 I'm Raj Kumar Khadka </div>
-## <div align="center"> A passionate Computer Engineer from Nepal </div>
+## <div align="center"> I am a student, learner and programmer working in the field of Artificial Intelligence and Web Development from Nepal </div>
+ <h3 align="center">Visitor Count</h3>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/RajkumarKhadka/count.svg?" />
+</p>
+
 
 # 💫 About Me:
 <table>
