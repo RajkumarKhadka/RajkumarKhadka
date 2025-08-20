@@ -20,7 +20,7 @@
       🔭 I’m currently working on Machine Learning, Deep Learning, Django, React & Postgre SQL.<br>
       👨‍💻 I’m currently working on Ishara Setu – a Nepali Sign Language detection system.<br>
       🌱 I’m currently learning AI/ML, Python, Django, React.<br>
-      🤝 I’m looking to collaborate on-*-<br>
+      <!--🤝 I’m looking to collaborate on-*-<br>-->
       👨‍💻 All of my details are available at https://www.rajkumark.com.np/ <br>
       💬 Ask me about any tech-related stuff.<br>
       📫 How to reach me: Check social links below.<br>
