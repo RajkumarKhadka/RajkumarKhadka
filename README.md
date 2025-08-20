@@ -3,13 +3,13 @@
 </p>
 
 
-## <div align="center"> Hola, 👋 I'm Raj Kumar Khadka </div>
-## <div align="center"> I am a student, learner and programmer working in the field of Artificial Intelligence and Web Development from Nepal </div>
- <h3 align="center">Visitor Count</h3>
+## <div align="center"> Hii, 👋 I'm Raj Kumar Khadka </div>
+## <div align="center"> I am a learner and programmer working in the field of Artificial Intelligence and Web Development from Nepal </div>
+ <!--<h3 align="center">Visitor Count</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/RajkumarKhadka/count.svg?" />
-</p>
+</p>-->
 
 
 # 💫 About Me:
