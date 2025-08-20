@@ -52,7 +52,14 @@
 </div>-->
 
 # 💻 Technologies And Tools:
-## •Programming Languages 
+<table>
+Programming Languages: Python, C/C++, Java, PHP <br>
+Web Development: HTML, CSS, JavaScript, Bootstrap <br>
+Framework: .NET, Bootstrap, Node.JS  <br>
+ML: Keras, Matplotlib, Numpy, Pandas, Tensorflow <br> 
+Databases: MySQL, SQLite, Mongodb<br>
+Tools: Git, GitHub, VS Code <br>
+  </table>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
