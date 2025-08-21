@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://smartcourses.io/wp-content/uploads/2023/10/web-development-idea.jpg" alt="Web Development GIF" />
-</p>
+<!--<p align="center">
+  <!--<img src="https://smartcourses.io/wp-content/uploads/2023/10/web-development-idea.jpg" alt="Web Development GIF" />
+   <td style="vertical-align: top;">
+      <img height="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="dev gif" />
+    </td>
+</p>-->
 
 ## <div align="center"> Hii, 👋 I'm Raj Kumar Khadka </div>
 ## <div align="center"> I am a learner and programmer working in the field of Artificial Intelligence and Web Development from Nepal </div>
